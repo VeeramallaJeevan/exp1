@@ -1,5 +1,5 @@
 public class addone{
-        public static void main(Strings args[]){
-            System.out.printlm("HELLOWORLD!");
+        public static void main(String args[]){
+            System.out.println("HELLOWORLD!");
             }
         }
